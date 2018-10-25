@@ -8,7 +8,7 @@
 
 Click the fab, wait a moment and =>
 
-![]()
+![picture](https://github.com/DeweyReed/OhMyMemoryLeak/blob/master/pictures/Screenshot_1540475639.png?raw=true)
 
 Info:
 

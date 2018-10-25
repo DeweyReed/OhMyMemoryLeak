@@ -23,7 +23,7 @@ class MainActivityFragment : Fragment() {
             container,
             false
         )
-        // Both of these causes memory leaks.
+        // Both of these cause memory leaks.
         binding.setLifecycleOwner(this)
 //        binding.setLifecycleOwner(viewLifecycleOwner)
         return binding.root
