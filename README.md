@@ -6,7 +6,7 @@
 
 `MainActivityFragment2`: An Fragment with only a TextView
 
-Click the fab, wait a moment and =>
+Click the fab, the first fragment is replaced by the second fragment, and then wait a moment and =>
 
 ![picture](https://github.com/DeweyReed/OhMyMemoryLeak/blob/master/pictures/Screenshot_1540475639.png?raw=true)
 
