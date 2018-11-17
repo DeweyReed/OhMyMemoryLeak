@@ -1,5 +1,9 @@
 # OhMyMemoryLeak
 
+[Leak Canary Issue: DataBinding + setLifecycleOwner + Stopped Fragment => Memory Leak? #1137](https://github.com/square/leakcanary/issues/1137)
+
+[Data Binding Issue Tracker: The ViewDataBinding.OnStartListener lifecycle observer leaks the view hierarchy after Fragment.onDestroyView](https://issuetracker.google.com/issues/119661177)
+
 `MainActivity`: An Activity to host two fragments and has a button to toggle between them.
 
 `MainActivityFragment`: An Fragment using DataBinding and `setLifecycleOwner`
